@@ -9,10 +9,10 @@
     
 }
 .links{
-    color:#006A71;
+    color:#ffffff;
 }
 .footer{
-   background-color:#9acbd0 ;
+   background-color:#33056c;;
    height: 300px;
    width: 100%;
    display: flex;
@@ -28,5 +28,5 @@
 }
 .copyright{
     text-align: center;
-    color: #006A71;
+    color: #ffffff;
 }
